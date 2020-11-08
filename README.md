@@ -1,7 +1,6 @@
 # T-rex-Game
 * It is this one One Favorite game from our childhood memory,
-that all of us would have played for sure and 
-this being the first game that I've created myself makes me even more excited.
+that all of us would have played for sure
 * I've added few more modifications for more fun and here you go:
   * Get Player name in the start of the game.
   * Added Background and border to the canvas.
